@@ -1,0 +1,602 @@
+
+Requisição de ping realizada. Data 2017-11-3 17:35:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:37:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:39:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:41:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:43:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:45:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:47:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:49:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:51:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:53:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:55:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:57:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 17:59:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:01:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:03:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:05:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:07:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:09:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:11:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:13:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:15:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:17:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:19:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:21:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:23:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:25:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:27:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:29:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:31:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:33:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:35:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:37:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:39:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:41:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:43:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:45:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:47:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:49:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:51:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 18:53:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:19:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:21:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:23:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:25:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:27:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:29:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:31:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:33:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:35:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:37:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:39:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:41:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:43:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:45:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:47:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:49:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:51:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:53:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:55:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:57:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 21:59:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 22:01:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 22:03:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 22:05:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 22:07:54
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 22:15:19
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 22:17:19
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 22:19:19
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 22:21:19
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:26:10
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:28:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:30:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:32:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:34:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:36:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:38:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:40:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:42:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:44:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:46:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:48:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:50:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:52:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:54:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:56:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-3 23:58:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47

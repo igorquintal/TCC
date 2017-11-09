@@ -1,0 +1,707 @@
+
+Requisição de ping realizada. Data 2017-11-8 00:27:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:29:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:31:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:33:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:35:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:37:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:39:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:41:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:43:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:45:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:47:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:49:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:51:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:53:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:55:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:57:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 00:59:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:01:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:03:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:05:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:07:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:09:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:11:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:13:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:15:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:17:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:19:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:21:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:23:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:25:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:27:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:29:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:31:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:33:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:35:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:37:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:39:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:41:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:43:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:45:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:47:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:49:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:51:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:53:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:55:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:57:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 01:59:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:01:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:03:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:05:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:07:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:09:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:11:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:13:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:15:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:17:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:19:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:21:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:23:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:25:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:27:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:29:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:31:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:33:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:35:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:37:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:39:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:41:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:43:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:45:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:47:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:49:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:51:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:53:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:55:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:57:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 02:59:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:01:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:03:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:05:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:07:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:09:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:11:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:13:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:15:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:17:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:19:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:21:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:23:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:25:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:27:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:29:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:31:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:33:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:35:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:37:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:39:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:41:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:43:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:45:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52
+
+Requisição de ping realizada. Data 2017-11-8 03:47:43
+--> Sensores Online:
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: Keypad portão  IP: 192.168.15.50
+    --> Nome: Sensor sala de TV  IP: 192.168.15.52

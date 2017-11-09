@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <title>Bootstrap Sandbox</title>
+    <style>
+      .form-control[readonly].no-gray {
+        background-color:white;
+      }
+    </style>
+</head>
+<body>
+  {{> header}}
+
+      <div class="container">
+        <!--##################START HERE#####################-->
+        <legend class="text-center text-md-left">Registrando novos dispositivos</legend>
+        <p class="lead text-justify">O cadastro de novos dispositivos é feito de maneira muito fácil! Na maioria das vezes, ele é realizado automaticamente, seguindo-se apenas as instruções apresentadas em seu novo dispotivo. Alguns roteadores, porém, podem apresentar configurações que dificultem um pouco este processo.</p>
+        <p class="lead text-justify">Se seu dispositivo não conectar automaticamente, você deverá inserir o IP de seu server manualmente. Para este caso, recomendamos que você altere as configurações de DHCP de seu roteador, e defina o IP de seu server como estático sempre. Caso contrário, podem ocorrer constantes quedas de comunicação.</p>
+        <p class="lead text-justify">Esta configuração varia de roteador para roteador, mas em geral, o processo é similar. Você deve associar o endereço IP de seu server ao endereço MAC também de seu server. Essas configurações geralmente são feitas na seção de DHCP de seu roteador.</p>
+        <p class="lead text-justify">Abaixo apresentamos o endereço IP e o endereço MAC de seu server, que devem ser utilizados nesta configuração de DHCP. Caso seja necessário também conectar dispositivos manualmente, insira na tela de login deles este endereço de IP.</p>
+
+        <br>
+
+        <div class="card text-center">
+            <div class="card-header h5">
+                Endereço de IP
+            </div>
+            <div class="card-body">
+                <h1 class="display-1">{{ip}}</h1>
+            </div>
+        </div>
+
+        <br><br>
+
+        <div class="card text-center">
+            <div class="card-header h5">
+                Endereço MAC
+            </div>
+            <div class="card-body">
+                <h1 class="display-1">{{macAddress}}</h1>
+            </div>
+        </div>
+
+        <br><br>
+
+    </div><!-- ./container -->
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+</body>
+</html>

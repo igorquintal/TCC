@@ -1,0 +1,51 @@
+
+Requisição de ping realizada. Data 2017-10-24 23:30:26
+--> Sensores Online:
+    --> Nome: MEU NOTEBOOK
+IP: 192.168.15.49
+    --> Nome: MOTO G
+IP: 192.168.15.47
+--> Sensores Online:
+    --> Nome: IPHONE THIAGO
+IP: 192.168.15.50
+
+Requisição de ping realizada. Data 2017-10-24 23:32:26
+--> Sensores Online:
+    --> Nome: MEU NOTEBOOK
+IP: 192.168.15.49
+    --> Nome: MOTO G
+IP: 192.168.15.47
+--> Sensores Online:
+    --> Nome: IPHONE THIAGO
+IP: 192.168.15.50
+
+Requisição de ping realizada. Data 2017-10-24 23:34:26
+--> Sensores Online:
+    --> Nome: MEU NOTEBOOK
+IP: 192.168.15.49
+    --> Nome: MOTO G
+IP: 192.168.15.47
+--> Sensores Online:
+    --> Nome: IPHONE THIAGO
+IP: 192.168.15.50
+
+Requisição de ping realizada. Data 2017-10-24 23:38:32
+--> Sensores Online:
+    --> Nome: MEU NOTEBOOK  IP: 192.168.15.49
+    --> Nome: MOTO G  IP: 192.168.15.47
+--> Sensores Offline
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+
+Requisição de ping realizada. Data 2017-10-24 23:42:27
+--> Sensores Online:
+    --> Nome: MEU NOTEBOOK  IP: 192.168.15.49
+--> Sensores Offline
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-10-24 23:44:27
+--> Sensores Online:
+    --> Nome: MEU NOTEBOOK  IP: 192.168.15.49
+    --> Nome: MOTO G  IP: 192.168.15.47
+--> Sensores Offline
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50

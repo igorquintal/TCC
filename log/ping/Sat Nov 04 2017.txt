@@ -1,0 +1,1935 @@
+
+Requisição de ping realizada. Data 2017-11-4 00:00:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:02:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:04:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:06:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:08:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:10:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:12:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:14:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:16:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:18:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:20:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:22:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:24:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:26:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:28:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:30:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:32:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:34:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:36:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:38:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:40:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:42:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:44:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:46:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:48:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:50:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:52:15
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:55:41
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 00:57:41
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:03:12
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:05:12
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:07:12
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:10:59
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:12:59
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:14:59
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:16:59
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:22:48
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 01:24:48
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 02:51:53
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 02:53:53
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 02:55:53
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 02:57:53
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 02:59:53
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:01:53
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:35:34
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:37:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:39:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:41:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:43:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:45:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:47:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:49:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:51:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:53:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:55:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:57:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 03:59:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:01:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:03:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:05:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:07:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:09:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:11:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:13:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:15:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:17:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:19:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:21:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:23:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:25:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:27:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:29:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:31:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 04:33:39
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:18:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:20:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:22:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:24:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:26:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:28:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:30:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:32:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:34:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:36:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:38:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:40:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:42:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:44:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:46:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:48:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:50:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:52:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:54:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:56:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 17:58:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:00:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:02:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:04:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:06:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:08:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:10:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:12:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:14:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:16:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:18:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:20:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:22:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:24:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:26:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:28:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:30:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:32:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:34:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:36:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:38:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:40:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:42:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:44:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:46:24
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:48:40
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:50:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:52:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:54:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:56:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 18:58:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:00:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:02:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:04:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:06:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:08:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:10:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:12:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:14:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:16:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:18:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:20:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:22:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:24:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:26:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:28:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:30:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:32:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:34:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:36:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:38:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:40:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:42:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:44:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:46:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:48:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:50:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:52:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:54:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:56:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 19:58:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:00:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:02:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:04:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:06:45
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Porta de entrada  IP: 192.168.15.49
+    --> Nome: IPHONE THIAGO  IP: 192.168.15.50
+    --> Nome: MOTO G  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:09:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:11:58
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:23:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:25:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:27:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:29:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:31:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:33:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:35:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:37:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:39:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:41:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:43:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:45:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:47:26
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:49:27
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:53:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:55:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:57:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+
+Requisição de ping realizada. Data 2017-11-4 20:59:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+
+Requisição de ping realizada. Data 2017-11-4 21:01:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:03:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:05:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:07:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:09:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:11:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:13:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:15:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:17:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:19:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:21:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:23:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:25:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:27:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:29:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:31:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:33:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:35:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:37:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:39:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:41:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:43:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:45:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:47:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:49:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:51:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:53:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:55:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:57:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 21:59:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:01:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:03:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:05:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:07:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:09:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:11:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:13:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:15:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:17:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:19:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:21:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:23:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:25:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:27:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:29:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:31:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:33:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:35:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:37:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:39:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:41:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:43:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:45:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:47:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:49:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:51:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:53:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:55:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:57:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 22:59:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 23:01:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 23:03:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 23:05:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 23:07:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 23:09:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 23:11:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 23:13:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
+
+Requisição de ping realizada. Data 2017-11-4 23:15:18
+--> Sensores Online:
+--> Sensores Offline
+    --> Nome: Leitor Entrada A  IP: 192.168.15.49
+    --> Nome: Portão Principal  IP: 192.168.15.50
+    --> Nome: Saída túnel  IP: 192.168.15.47
+    --> Nome: Sensor de presença - sala  IP: 192.168.10.49
+    --> Nome: Sensor de presença - quarto  IP: 192.168.11.49
+    --> Nome: Sensor magnético - janela - cozinha  IP: 192.168.12.49
